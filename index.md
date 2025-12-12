@@ -1,63 +1,91 @@
-Pocket Flow Privacy Policy
+---
+title: Pocket Flow Privacy Policy
+---
 
-Last updated: December 2025
+# **Privacy Policy**
+_Last updated: December 2025_
 
-Pocket Flow is a personal budgeting and expense tracking application. We value your privacy and are committed to protecting your data. This policy explains how the app handles information.
+Pocket Flow ("the App") is a personal budgeting and expense tracking application.  
+We value your privacy and are committed to protecting your data. This policy explains how the App collects, uses, and stores information.
 
-1. Data Collection
+---
 
-Pocket Flow stores all expense data locally on your device.
-The app does NOT collect, upload, or transmit your data to any server controlled by us or any third party.
+## **1. Data Collection**
+Pocket Flow stores all expense-related data **locally on your device**.  
+The App does **not** collect, upload, or transmit any personal or financial data to external servers.
 
-The following data may be stored locally if you choose to enter it:
+The following data may be stored locally if you choose to enter or import it:
 
-Expense amounts
+- Expense amounts and categories  
+- Dates and times  
+- Notes  
+- Imported files (e.g., CSV backups from other budgeting apps)
 
-Categories
+No remote collection occurs.
 
-Dates
+---
 
-Notes
+## **2. Data Sharing**
+Pocket Flow does **not** share any data with third parties.  
+No data is sold, rented, or transferred outside your device.
 
-Imported files (e.g., CSV backups from other apps)
+---
 
-2. Data Sharing
+## **3. Data Usage**
+Your data is used **solely within the App** for purposes such as:
 
-Pocket Flow does not share your data with any third parties.
+- Displaying expense summaries  
+- Storing, processing, importing, and exporting entries  
+- Generating charts, insights, and analytics  
 
-3. Data Usage
+Pocket Flow does **not** use your data for advertising or tracking purposes.
 
-Your data is used strictly within the app for:
+---
 
-Displaying expense summaries
+## **4. Data Retention & Deletion**
+All data remains stored locally on your device until you choose to delete it.
 
-Storing/importing/exporting entries
+You may delete data in the following ways:
 
-Generating charts and analytics
+- Remove individual expense entries  
+- Clear all app data from Android system settings  
+- Delete imported files from your device storage  
 
-No usage analytics, tracking, or advertising identifiers are collected.
+No copies are stored by us.
 
-4. Data Retention & Deletion
+---
 
-All data remains on your device.
-You may delete entries or clear all app data at any time through system settings.
+## **5. File Imports & Exports**
+If you choose to import data (e.g., Pocket Flow CSV backups), the App processes the file **on-device only**.
 
-5. File Imports & Exports
+If you export your data, the App saves a file to your device.  
+Pocket Flow does **not** upload exported files to any server.
 
-If you import data from a Pocket Flow export file, then Pocket Flow processes the file entirely on-device.
+---
 
-If you export data, it is saved to your device's storage only.
+## **6. Security**
+Pocket Flow relies on Android's built-in sandboxing and secure storage mechanisms.  
+The App does not transmit data over the internet unless you manually share an exported file.
 
-6. Security
+---
 
-Pocket Flow relies on Android's sandboxing and secure storage environment.
-No network transmission occurs unless a user manually shares an exported file.
+## **7. Children’s Privacy**
+Pocket Flow is not directed toward children under 13.  
+We do not knowingly collect personal data from children.
 
-7. Changes
+---
 
-We may update this policy as features evolve. Updates will be posted here.
+## **8. Changes to This Policy**
+We may update this Privacy Policy as the App evolves.  
+Any updates will appear on this page with a revised "Last updated" date.
 
-8. Contact
+---
 
-If you have questions, contact:
-vishwainnovates@gmail.com
+## **9. Contact**
+If you have questions or concerns about this Privacy Policy, please contact:
+
+**Email:** pocketflow-support@example.com
+
+---
+
+© 2025 Pocket Flow
