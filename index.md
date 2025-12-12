@@ -84,7 +84,7 @@ Any updates will appear on this page with a revised "Last updated" date.
 ## **9. Contact**
 If you have questions or concerns about this Privacy Policy, please contact:
 
-**Email:** pocketflow-support@example.com
+**Email:** vishwainnovates@gmail.com
 
 ---
 
